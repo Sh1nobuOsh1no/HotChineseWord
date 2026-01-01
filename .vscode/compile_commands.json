@@ -1,11 +1,11 @@
 [
 {
   "directory": "/home/ubuntu/OshinoShinobu/HotWordSystem",
-  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-Isrc", "-Iinclude", "-I", "/home/ubuntu/.xmake/packages/c/cppjieba/v5.6.0/f61060656d20443996aa1c9263271503/include", "-I", "/home/ubuntu/.xmake/packages/l/limonp/v1.0.1/8b6e78e87f784cde9268e867358c3e81/include", "-DNDEBUG", "-o", "build/.objs/HotWordSystem/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-Isrc", "-I", "/home/ubuntu/.xmake/packages/c/cppjieba/v5.6.0/f61060656d20443996aa1c9263271503/include", "-I", "/home/ubuntu/.xmake/packages/l/limonp/v1.0.1/8b6e78e87f784cde9268e867358c3e81/include", "-DNDEBUG", "-o", "build/.objs/WaifuTopK/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
   "file": "src/main.cpp"
 },
 {
   "directory": "/home/ubuntu/OshinoShinobu/HotWordSystem",
-  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-Isrc", "-Iinclude", "-I", "/home/ubuntu/.xmake/packages/c/cppjieba/v5.6.0/f61060656d20443996aa1c9263271503/include", "-I", "/home/ubuntu/.xmake/packages/l/limonp/v1.0.1/8b6e78e87f784cde9268e867358c3e81/include", "-DNDEBUG", "-o", "build/.objs/HotWordSystem/linux/x86_64/release/src/HotWordSystem.cpp.o", "src/HotWordSystem.cpp"],
-  "file": "src/HotWordSystem.cpp"
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-Isrc", "-I", "/home/ubuntu/.xmake/packages/c/cppjieba/v5.6.0/f61060656d20443996aa1c9263271503/include", "-I", "/home/ubuntu/.xmake/packages/l/limonp/v1.0.1/8b6e78e87f784cde9268e867358c3e81/include", "-DNDEBUG", "-o", "build/.objs/WaifuTopK/linux/x86_64/release/src/WaifuTopK.cpp.o", "src/WaifuTopK.cpp"],
+  "file": "src/WaifuTopK.cpp"
 }]
